@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="24"
+    density="560dpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="575466050938298"
+    token="5019997022206672234"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="216" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="17" />
+    <task
+        name="verifier"
+        duration="4" />
+
+    <artifact
+        location="C:\Users\prakd\Downloads\screenshot\android-ScreenCapture-master\Application\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="573108207538522"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\prakd\Downloads\screenshot\android-ScreenCapture-master\Application\build\outputs\apk\Application-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="575466050938298"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\prakd\Downloads\screenshot\android-ScreenCapture-master\Application\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

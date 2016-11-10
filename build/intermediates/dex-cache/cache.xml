@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\prakd\Downloads\screenshot\android-ScreenCapture-master\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\prakd\Downloads\screenshot\android-ScreenCapture-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.0_1245e2151b0e3426ce20f9d993b5c8d32b81ade8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\prakd\Downloads\screenshot\android-ScreenCapture-master\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8e43633a243dc175e6595ea0c9b393fc40f7bd10">
+        <dex dex="C:\Users\prakd\Downloads\screenshot\android-ScreenCapture-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_00ec125e0cf5ee2fa2088a5bf9aed4ae80276825\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\prakd\Downloads\screenshot\android-ScreenCapture-master\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="C:\Users\prakd\Downloads\screenshot\android-ScreenCapture-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.1.0_c56f821c51a0eaad0a61865b310209b7c055bbd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\prakd\Downloads\screenshot\android-ScreenCapture-master\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1a57337a520bf40b9ad1e074cb780527dffa1aac">
+        <dex dex="C:\Users\prakd\Downloads\screenshot\android-ScreenCapture-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-23.1.0_2ff556f431d932b9f9492b031c339e0515e6c2d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\prakd\Downloads\screenshot\android-ScreenCapture-master\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\prakd\Downloads\screenshot\android-ScreenCapture-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.0_e483e037dd9d0cd0a88cae6b968311060d40ed4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\prakd\Downloads\screenshot\android-ScreenCapture-master\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ff94fe08b09dac753a4b1b24b9d57ad61eba066b">
+        <dex dex="C:\Users\prakd\Downloads\screenshot\android-ScreenCapture-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8b2b1352964efe7f43035abeae1a0d9801303bf5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\prakd\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\prakd\Downloads\screenshot\android-ScreenCapture-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.0_cfac8fa191e440346be2b5a476f257d1c4a50c00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\prakd\Downloads\screenshot\android-ScreenCapture-master\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="076c7d9e22cc325b8008ff799e0c06dfb8eefdf3">
+        <dex dex="C:\Users\prakd\Downloads\screenshot\android-ScreenCapture-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.0_a43bcff78e3b132f59d07868265075f13927339a\classes.dex" />
+    </item>
+
+</items>

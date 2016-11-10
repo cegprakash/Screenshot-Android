@@ -1,0 +1,7 @@
+#Thu Nov 10 16:31:24 IST 2016
+base.0=C\:\\Users\\prakd\\Downloads\\screenshot\\android-ScreenCapture-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_00ec125e0cf5ee2fa2088a5bf9aed4ae80276825
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\prakd\\Downloads\\screenshot\\android-ScreenCapture-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8b2b1352964efe7f43035abeae1a0d9801303bf5\\classes.dex
+base.1=C\:\\Users\\prakd\\Downloads\\screenshot\\android-ScreenCapture-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8b2b1352964efe7f43035abeae1a0d9801303bf5
+file.0=C\:\\Users\\prakd\\Downloads\\screenshot\\android-ScreenCapture-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_00ec125e0cf5ee2fa2088a5bf9aed4ae80276825\\classes.dex
